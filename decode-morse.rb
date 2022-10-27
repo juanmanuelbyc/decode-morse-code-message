@@ -1,5 +1,7 @@
-def split_morse_words (morseString)
-    return morseString.split("   ")
+
+
+def split_morse_words (morse_string)
+    return morse_string.split("   ")
 end
 
 def decode_char (character) 
